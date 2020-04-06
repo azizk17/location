@@ -15,7 +15,6 @@ A new Flutter project.
 - [ ] Notifications
 - [ ] Cross Platform Desgin
 - [ ] Logs
-- [ ] 
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
