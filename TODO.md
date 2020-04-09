@@ -1,0 +1,19 @@
+## TODO
+- [x] Forget password
+- [ ] phone signin
+- [ ] pin vervication
+- [ ] firestore
+- Edit and update profile 
+  - [ ] data
+  - [ ] profile image
+  - [x] Validation 
+    - [ ] Handel form state
+- client DB 
+- Nontications
+  - [ ] Android
+  - [ ] IOS 
+- [ ] one device per account
+- [ ] Permissions
+- [ ] Notifications
+- [x] share
+- [ ] multible devices per account

@@ -1,0 +1,196 @@
+{
+  "@@last_modified": "2019-05-20T06:51:54.436359",
+  "appTitle": "Hello world App",
+  "@appTitle": {
+    "description": "The application title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hello": "Hello",
+  "@hello": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youLoggedIn": "You already logged in",
+  "@youLoggedIn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sginInSuccess": "You are logged in",
+  "@sginInSuccess": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sginInFaild": "",
+  "@sginInFaild": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logoutMsg": "You Logged Out",
+  "@logoutMsg": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordRest": "Forget Password",
+  "@passwordRest": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "verifyEmail": "Please Verify Your Email",
+  "@verifyEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "verifyPhone": "Please Verify Your Phone Number",
+  "@verifyPhone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "Email",
+  "@email": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "Password",
+  "@password": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phone": "Phone Number",
+  "@phone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "name": "name",
+  "@name": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "profilePhoto": "Profile Photo",
+  "@profilePhoto": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "registerAt": "Joined At",
+  "@registerAt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lastLogin": "Last Login",
+  "@lastLogin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "intenetConnectionFaild": "Connection is lost !!",
+  "@intenetConnectionFaild": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "intenetConnectionSuccess": "You are connected",
+  "@intenetConnectionSuccess": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unknownError": "Something Went Wrong !!",
+  "@unknownError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "isRequired": "{filed} is required",
+  "@isRequired": {
+    "type": "text",
+    "placeholders": {
+      "filed": {}
+    }
+  },
+  "incorrectCredentials": "Credentials are not correct",
+  "@incorrectCredentials": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailNotValid": "Email Address is not Valied",
+  "@emailNotValid": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailIsUsed": "This email has been used ",
+  "@emailIsUsed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userNotFound": "You Dont have account with this email",
+  "@userNotFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordNotValid": "Password must be in correct pattren",
+  "@passwordNotValid": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "termsMsg": "By creating an account, you are agreeing to our Terms of Service and Privacy Policy",
+  "@termsMsg": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterYourPhoneMsg": "Enter your phone number",
+  "@enterYourPhoneMsg": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidPhoneNumber": "phone number is incorrect",
+  "@invalidPhoneNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterVerifiCodeMsg": "Enter varification code",
+  "@enterVerifiCodeMsg": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidVerifiCodeMsg": "varification code is incorrect",
+  "@invalidVerifiCodeMsg": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "waitResendMsg": "Wait 3 mintes to send agine",
+  "@waitResendMsg": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneFormatErr": "Please enter a correct phone number",
+  "@phoneFormatErr": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "btnSend": "Send",
+  "@btnSend": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "btnCancel": "Cancel",
+  "@btnCancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "btnSave": "Save",
+  "@btnSave": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "btnRegister": "Register",
+  "@btnRegister": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "btnLogin": "Login",
+  "@btnLogin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "btnAgree": "Agree",
+  "@btnAgree": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
